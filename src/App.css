@@ -12,3 +12,8 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.titleFonts {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800;
+}
